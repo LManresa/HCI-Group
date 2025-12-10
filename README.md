@@ -13,7 +13,8 @@ project-portfolio<br/>
 │  ├─ Activity 2.pdf<br/>
 │  ├─ Activity 3.pdf<br/>
 │  ├─ Activity 4.pdf<br/>
-│  ├─ Activity 5.pdf<br/>
+│  ├─ Activity 6.pdf<br/>
+│  ├─ FurniSwap-project.fig<br/>
 │  └─ prototype.mp4<br/>
 ├─ images/<br/>
 │  ├─ FurniSwap-Logo.png<br/> 
