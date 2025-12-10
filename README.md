@@ -6,6 +6,8 @@ https://lmanresa.github.io/HCI-Group5
 project-portfolio<br/>
 ├─ index.html<br/>
 ├─ styles.css<br/>
+├─ script.js<br/>
+├─ README.md<br/>
 ├─ documents/<br/>
 │  ├─ Activity 1.pdf<br/>
 │  ├─ Activity 2.pdf<br/>
